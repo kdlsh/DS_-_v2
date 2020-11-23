@@ -19,12 +19,12 @@
 - 데이터 탐색 과정, Feature 선정 과정, 예측 모형 학습과정 및 Evaluation 결과,
 고려사항 등을 리포트에 포함시켜 주세요.
 
-3개 과제에 대한 3개 format 결과물 포함
+*3개 과제에 대한 3개 format 결과물 포함
 1. jupyter notebook - test1.ipynb, test2.ipynb, test3.ipynb
 2. python script - test1.py, test2.py, test3.py
 3. html - test1.html, test2.html, test3.html
 
-jupyter notebook 과 html은 같은 내용이며 분석에 대한 code 와 고려사항들이 기술되어 있음  
-python script는 refactoring 된 code로 되어 있으나 그림결과 및 고려사항이 포함되지 않음  
+-jupyter notebook 과 html은 같은 내용이며 분석에 대한 code 와 고려사항들이 기술되어 있음  
+-python script는 refactoring 된 code로 되어 있으나 그림결과 및 고려사항이 포함되지 않음  
 
 
