@@ -24,7 +24,7 @@
 2. python script - test1.py, test2.py, test3.py
 3. html - test1.html, test2.html, test3.html
 
-jupyter notebook 과 html은 같은 내용이며 분석에 대한 code 와 고려사항들이 기술되어 있음
-python script는 refactoring 된 code로 되어 있으나 그림결과 및 고려사항이 포함되지 않음
+jupyter notebook 과 html은 같은 내용이며 분석에 대한 code 와 고려사항들이 기술되어 있음  
+python script는 refactoring 된 code로 되어 있으나 그림결과 및 고려사항이 포함되지 않음  
 
 
